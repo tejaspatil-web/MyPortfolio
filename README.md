@@ -20,6 +20,7 @@ Javascript, HTML, CSS...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://tejaspatil-portfolio.web.app/contact.html
+If you have any feedback, please reach out to us at 
+https://tejaspatil-portfolio.web.app/contact.html
 
 
