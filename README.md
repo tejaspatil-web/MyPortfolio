@@ -3,8 +3,11 @@
 
 
 
+
 ## 🚀 About Me
 I'm a full stack developer...
+
+
 
 
 ## 🔗 Links
@@ -14,12 +17,14 @@ I'm a full stack developer...
 
 
 
+
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
 
-## Feedback
 
+
+## Feedback
 If you have any feedback, please reach out to us at 
 https://tejaspatil-portfolio.web.app/contact.html
 
