@@ -24,7 +24,7 @@ Javascript, HTML, CSS...
 
 
 
-#https://tejaspatil-portfolio.web.app/contact.html# Feedback
+## Feedback
 If you have any feedback, please reach out to us at 
 https://tejaspatil-portfolio.web.app/contact.html
 
