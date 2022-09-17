@@ -26,6 +26,6 @@ Javascript, HTML, CSS...
 
 ## Feedback
 If you have any feedback, please reach out to us at 
-https://tejaspatil-portfolio.web.app/contact.html
+[https://Contact.Me](https://tejaspatil-portfolio.web.app/Contact%20Page/contact.html)
 
 
